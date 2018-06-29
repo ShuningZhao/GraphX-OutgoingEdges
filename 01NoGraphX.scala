@@ -1,4 +1,4 @@
-package sparktoys.ass3
+package sparktoys.nographx
 
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
